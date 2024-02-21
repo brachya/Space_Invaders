@@ -1,0 +1,19 @@
+{
+  "scr": [
+    1200,
+    760
+  ],
+  "last_scr": [
+    1200,
+    760
+  ],
+  "back": "pic\\background3.jpg",
+  "back_place": 3,
+  "full": false,
+  "backgrounds": [
+    "pic\\background.jpg",
+    "pic\\background1.jpg",
+    "pic\\background2.jpg",
+    "pic\\background3.jpg"
+  ]
+}

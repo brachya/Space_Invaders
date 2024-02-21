@@ -1,0 +1,48 @@
+{
+  "players": {
+    "Brachya": {
+      "score": 0,
+      "level": 1,
+      "player_life": 3,
+      "player_life2": 3
+    },
+    "null": {
+      "score": 0,
+      "level": 1,
+      "player_life": 3,
+      "player_life2": 3
+    },
+    "br": {
+      "score": 0,
+      "level": 1,
+      "player_life": 3,
+      "player_life2": 3
+    }
+  },
+  "highscore": [
+    {
+      "name": "Brachya",
+      "score": 201
+    },
+    {
+      "name": "Brachya",
+      "score": 67
+    },
+    {
+      "name": "Brachya",
+      "score": 38
+    },
+    {
+      "name": "Brachya",
+      "score": 21
+    },
+    {
+      "name": "Brachya",
+      "score": 4
+    },
+    {
+      "name": "Brachya",
+      "score": 2
+    }
+  ]
+}
